@@ -1,4 +1,4 @@
-# 💀 SNOWAXE Password Strength Checker
+# Password Strength Checker
 
 > ⚠️ **FOR EDUCATIONAL PURPOSES ONLY**  
 This GUI-based tool is designed to demonstrate **password evaluation techniques** — including dictionary word detection, pattern analysis, and security scoring.  
