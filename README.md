@@ -66,8 +66,7 @@ pip install nltk
 ├── requirements.txt              # Dependencies
 └── assets/                       # Screenshots
     ├── pic1.png
-    ├── pic2.png
-    └── pic3.png
+    └── pic2.png
 ```
 
 ---
@@ -93,14 +92,14 @@ pip install nltk
 ### Run with Python
 
 ```bash
-python password_checker_gui.py
+python strength_checker.py
 ```
 
 ### Build a `.exe` (Windows only)
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed password_checker_gui.py
+pyinstaller --onefile --windowed strength_checker.py
 ```
 
 > 🧨 Final `.exe` will be created in `dist/` folder.
