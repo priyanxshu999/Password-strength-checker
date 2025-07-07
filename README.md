@@ -141,4 +141,3 @@ Crafted with precision by **Priyanshu** —
 ### 🟢 Strength Rated: Strong
 ![Strong Password Result](assets/pic2.png)
 
----
