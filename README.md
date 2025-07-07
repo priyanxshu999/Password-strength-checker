@@ -125,12 +125,6 @@ This tool is for **educational use only**. It does **NOT store, transmit, or has
 
 ---
 
-## 🧠 Author Note
-
-Crafted with precision by **Priyanshu** —  
-
-
----
 
 ## 📷 Screenshots
 
@@ -140,4 +134,12 @@ Crafted with precision by **Priyanshu** —
 
 ### 🟢 Strength Rated: Strong
 ![Strong Password Result](assets/pic2.png)
+
+---
+
+## 🧠 Author Note
+
+Crafted with precision by **Priyanshu**
+
+
 
