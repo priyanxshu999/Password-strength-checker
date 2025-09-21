@@ -2,7 +2,7 @@
 
 > ⚠️ **FOR EDUCATIONAL PURPOSES ONLY**  
 This GUI-based tool is designed to demonstrate **password evaluation techniques** — including dictionary word detection, pattern analysis, and security scoring.  
-**DO NOT use this as a replacement for real password hashing or storage systems.**  
+
 This is for **learning and demonstration** only.
 
 ---
@@ -137,9 +137,6 @@ This tool is for **educational use only**. It does **NOT store, transmit, or has
 
 ---
 
-## 🧠 Author Note
-
-Crafted with precision by **Priyanshu**
 
 
 
